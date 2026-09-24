@@ -1,7 +1,6 @@
 # NetDash: Dashboard de Monitoramento de Rede
 
-Breve descrição do projeto: Uma aplicação de desktop simples para monitorar em tempo real 
-a qualidade de uma conexão de rede, medindo métricas como latência, jitter e perda de pacotes.
+Uma aplicação de desktop simples para monitorar em tempo real a qualidade de uma conexão de rede, medindo métricas como latência, jitter e perda de pacotes.
 
 ## Pré-requisitos
 
@@ -11,7 +10,7 @@ a qualidade de uma conexão de rede, medindo métricas como latência, jitter e 
 ## Instruções de Instalação
 
 1. Clone este repositório:
-   `git clone https://github.com/SandyCabral/NetDash---Projeto-de-Redes.git`
+   `git clone https://github.com/SandyCabral/NetDash.git`
 2. Navegue até a pasta do projeto:
    `cd projeto-netdash`
 3. Execute a aplicação:
